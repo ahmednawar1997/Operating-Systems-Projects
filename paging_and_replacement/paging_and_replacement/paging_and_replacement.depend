@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545927586 source:e:\ahmed\documents\codeblocks workspace\paging_and_replacement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

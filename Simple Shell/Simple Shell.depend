@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540565656 source:/home/ahmed/Documents/Simple Shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<limits.h>
+	<string.h>
+	<signal.h>
+	<time.h>
+
